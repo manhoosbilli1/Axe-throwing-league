@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "D:\\Anaconda\\envs\\axe-project\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": false,
+    "python.linting.flake8Enabled": false,
+    "python.linting.pycodestyleEnabled": true
+}
