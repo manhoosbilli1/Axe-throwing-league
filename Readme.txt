@@ -29,3 +29,4 @@ KEY POINTS.
 -a triangulation method will give better results but need to figure out the cost and if frame rates are necessary. 
 -create a calibration method. maybe with a few lines on screen that will need to be aligned with certain points on the board. 
 
+----CURRENTLY ON HOLD-----------
